@@ -54,7 +54,7 @@ Fake job postings = Fraudulent job postings
 - Calculate the number of times each industry appears using  the COUNTIF function. For example =COUNTIF (P2:P867, P2)
 - Drag formula across column
 - Insert a Pivot Table
-- Add “industry” to rows, and frequency to Values.
+- Add “industry” to rows, and "frequency" to Values.
 - Set value field to be summarized by Count
 - Click on the pivot table and insert pivot chart.
 - Select Clustered Column Chart
