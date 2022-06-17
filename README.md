@@ -61,4 +61,4 @@ Fake job postings = Fraudulent job postings
 - Customize chart as displayed on worksheet.
 
 # SHARE
-Assessment will be uploaded to GitHub repository as instructed.
+This is an [excel workbook](https://github.com/Jen-Ashishali/SCAMP-C6-Assessment/blob/main/fake_job_postings.xlsx), with a chart representing the fake job postings. Kindly view worksheet in editing mode for best visualization experience. 
