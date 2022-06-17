@@ -10,7 +10,7 @@ Study the details of the dataset and find out which industry has the highest num
 - Details of Data Cleaning
 
 # PREPARE
-Dataset is made available by She Code Africa has been downloaded, and stored in Excel files for Analysis.
+Dataset is made available by She Code Africa and has been downloaded and stored in Excel files for Analysis.
 
 # PROCESS
 ## Clean the dataset
